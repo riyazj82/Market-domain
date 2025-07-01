@@ -1,5 +1,1 @@
-TAVILY_API_KEY = "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"
-AZURE_OPENAI_API_KEY = "ad31085a728c400cb51886b9906951e4"
-AZURE_ENDPOINT = "https://chatgpt-key.openai.azure.com/"
-AZURE_DEPLOYMENT_NAME = "gpt-4o-2"
-AZURE_API_VERSION = "2024-12-01-preview"
+
