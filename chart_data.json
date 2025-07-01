@@ -1,0 +1,123 @@
+{
+    "pie_chart": {
+        "labels": [
+            "Beard Oils",
+            "Skincare Solutions",
+            "Cleansers",
+            "Moisturizers",
+            "Lip Balms"
+        ],
+        "values": [
+            30,
+            25,
+            20,
+            15,
+            10
+        ]
+    },
+    "line_chart": {
+        "years": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+        ],
+        "revenue": [
+            2,
+            5,
+            10,
+            15,
+            20,
+            30,
+            50
+        ]
+    },
+    "bcg_matrix": [
+        {
+            "name": "Beard Oils",
+            "market_share": 40,
+            "market_growth": 8
+        },
+        {
+            "name": "Skincare Solutions",
+            "market_share": 30,
+            "market_growth": 10
+        },
+        {
+            "name": "Cleansers",
+            "market_share": 20,
+            "market_growth": 5
+        },
+        {
+            "name": "Moisturizers",
+            "market_share": 10,
+            "market_growth": 4
+        },
+        {
+            "name": "Lip Balms",
+            "market_share": 5,
+            "market_growth": 3
+        }
+    ],
+    "waterfall_chart": {
+        "stages": [
+            "Revenue",
+            "Cost of Goods Sold",
+            "Operating Expenses",
+            "Net Profit"
+        ],
+        "values": [
+            50,
+            -20,
+            -10,
+            20
+        ]
+    },
+    "radar_chart": {
+        "categories": [
+            "Product Range",
+            "Market Presence",
+            "Innovation",
+            "Customer Satisfaction",
+            "Brand Recognition"
+        ],
+        "company": [
+            9,
+            8,
+            7,
+            9,
+            8
+        ],
+        "competitor": [
+            8,
+            7,
+            6,
+            8,
+            7
+        ]
+    },
+    "swot": {
+        "Strengths": [
+            "Diverse product range",
+            "Strong brand recognition",
+            "High customer satisfaction"
+        ],
+        "Weaknesses": [
+            "Limited presence in international markets",
+            "Dependency on a specific product segment"
+        ],
+        "Opportunities": [
+            "Expansion into new markets",
+            "Development of new product lines",
+            "Strategic partnerships"
+        ],
+        "Threats": [
+            "Increasing competition",
+            "Market saturation",
+            "Economic downturns"
+        ]
+    }
+}
